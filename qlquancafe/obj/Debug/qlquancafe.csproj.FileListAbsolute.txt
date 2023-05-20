@@ -1,0 +1,14 @@
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\obj\Debug\qlquancafe.csproj.AssemblyReference.cache
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\obj\Debug\qlquancafe.csproj.CoreCompileInputs.cache
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\bin\Debug\qlquancafe.exe.config
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\bin\Debug\qlquancafe.exe
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\bin\Debug\qlquancafe.pdb
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\obj\Debug\qlquancafe.exe
+C:\Users\1010302\source\repos\qlquancafe\qlquancafe\obj\Debug\qlquancafe.pdb
+D:\Github\QlquanCafe\qlquancafe\bin\Debug\qlquancafe.exe.config
+D:\Github\QlquanCafe\qlquancafe\bin\Debug\qlquancafe.exe
+D:\Github\QlquanCafe\qlquancafe\bin\Debug\qlquancafe.pdb
+D:\Github\QlquanCafe\qlquancafe\obj\Debug\qlquancafe.csproj.AssemblyReference.cache
+D:\Github\QlquanCafe\qlquancafe\obj\Debug\qlquancafe.csproj.CoreCompileInputs.cache
+D:\Github\QlquanCafe\qlquancafe\obj\Debug\qlquancafe.exe
+D:\Github\QlquanCafe\qlquancafe\obj\Debug\qlquancafe.pdb
